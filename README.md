@@ -112,6 +112,13 @@ Table of Contents
 * [ChatbotConf] (https://chatbotconf.com/)
 * [Talkabot] (https://talkabot.ai/)
 
+## Funding and News
+* [Botfunded](https://botfunded.com)
+* [Bots Timeline](https://www.cbinsights.com/blog/bot-startups-timeline/)
+* [chatbotsmagazine](https://chatbotsmagazine.com/chatbots-have-raised-over-170m-in-8-months-5df6aa6a0cf2#.ayt1xbg1a)
+* [ventureradar-  25 chatbots](http://blog.ventureradar.com/2016/06/14/25-chatbot-startups-you-should-know)
+* [AI startups in India](https://www.quora.com/What-are-the-best-AI-startups-in-India)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
