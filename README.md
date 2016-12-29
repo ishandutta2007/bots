@@ -10,6 +10,7 @@ Table of Contents
 - [Platform Documentation](#platform-documentation)
 - [Hybrid Channel Open-source Frameworks](#hybrid-channel-open-source-frameworks)
 - [non-Open-source Tools For Building Bots](#non-open-source-tools-for-building-bots)
+- [Tools for sentiment analysis](#tools-for-sentiment-analysis)
 - [Bots building consulting companies](#bots-building-consulting-companies)
 - [Tools For Bot Analytics](#tools-for-bot-analytics)
 - [Tools For Bot Conversation Mockups](#tools-for-bot-conversation-mockups)
@@ -85,6 +86,10 @@ Table of Contents
 * [www.mindmeld.com](www.mindmeld.com) - Deep-Domain Conversational AI to Power the Next Generation of Voice and Chat Assistants
 * [conversable](conversable.com) - An enterprise conversation platform for creating intelligent, on-demand, automated response flows through one-to-one conversations
 * [next it]www.nextit.com - An intelligent interface that is ready when you are. Our conversational A.I. is a layer of technology that sits between you, your team and your customers.
+
+## Tools for sentiment analysis
+* IBM Bluemix(www.ibm.com/bluemix)
+* Monkeylearn(monkeylearn.com)
 
 ## Bots building consulting companies
 * [jiffybots](https://jiffybots.com/)
