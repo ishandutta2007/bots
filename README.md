@@ -9,7 +9,7 @@ Table of Contents
 -----------------
 
 - [Platform Documentation](#platform-documentation)
-- [Tools For Building Bots](#tools-for-building-bots)
+- [Tools For Building Bots(non-Opensource)](#tools-for-building-bots-non-opensource)
 - [Tools For Bot Analytics](#tools-for-bot-analytics)
 - [Tools For Bot Conversation Mockups](#tools-for-bot-conversation-mockups)
 - [Libraries](#libraries)
@@ -17,7 +17,27 @@ Table of Contents
 - [Tutorials](#tutorials)
 - [Communities](#communities)
 
-## Platform Documentation
+
+- [Platform Documentation](#platform-documentation)
+- [Hybrid Channel Opensource Frameworks](#hybrid-channel-opensource-frameworks)
+- [Tools For Building Bots(non-Opensource)](#tools-for-building-bots-non-opensource)
+- [Bots building consulting companies](#bots-building-consulting-companies)
+- [Tools For Bot Analytics](#tools-for-bot-analytics)
+- [Tools For Bot Conversation Mockups](#tools-for-bot-conversation-mockups)
+- [Nodejs Libraries](#nodejs-libraries)
+- [Charting Libraries](#charting-libraries)
+- [Facebook Messenger Libraries](#facebook-messenger-libraries)
+- [Slack Libraries](#slack-libraries)
+- [Telegram Libraries](#telegram-libraries)
+- [Bot Stores](#bot-stores)
+- [Tutorials](#tutorials)
+- [Communities](#communities)
+- [Conferences](#conferences)
+- [Funding and News](#funding-and-news)
+- [License](#license)
+- [Platform Documentation](#platform-documentation)
+
+
 * [Facebook messenger](https://developers.facebook.com/products/messenger/)
 * [Slack](https://api.slack.com/bot-users)
 * [Discord](https://blog.discordapp.com/the-robot-revolution-has-unofficially-begun/)
@@ -36,7 +56,7 @@ Table of Contents
 * [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 
-## Tools For Building Bots(non Opensource)
+## Tools For Building Bots(non-Opensource)
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
