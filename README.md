@@ -61,7 +61,7 @@ Table of Contents
 * [manychat](https://manychat.com/) - Quick way to create facebook bot for non-programmers
 * [botsify](https://botsify.com/) - Quick way to create facebook bot for non-programmers
 * [chatbotkit](https://www.chatbotkit.com/) - chat bot for publishers and bloggers
-* [kore](https://kore.com/) - Custome bot for e-commerce
+* [kore](https://kore.com/) - Custom bot for e-commerce
 * [automat.ai](http://www.automat.ai) - AI focuseed chatbot building
 * [chatsuite](https://www.chatsuite.com) - AI focussed chat company
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
