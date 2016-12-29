@@ -7,17 +7,6 @@
 
 Table of Contents
 -----------------
-
-- [Platform Documentation](#platform-documentation)
-- [Tools For Building Bots(non-Opensource)](#tools-for-building-bots-non-opensource)
-- [Tools For Bot Analytics](#tools-for-bot-analytics)
-- [Tools For Bot Conversation Mockups](#tools-for-bot-conversation-mockups)
-- [Libraries](#libraries)
-- [Bot Stores](#bot-stores)
-- [Tutorials](#tutorials)
-- [Communities](#communities)
-
-
 - [Platform Documentation](#platform-documentation)
 - [Hybrid Channel Opensource Frameworks](#hybrid-channel-opensource-frameworks)
 - [Tools For Building Bots(non-Opensource)](#tools-for-building-bots-non-opensource)
