@@ -8,8 +8,8 @@
 Table of Contents
 -----------------
 - [Platform Documentation](#platform-documentation)
-- [Hybrid Channel Opensource Frameworks](#hybrid-channel-opensource-frameworks)
-- [non-Opensource Tools For Building Bots](#non-opensource-tools-for-building-bots)
+- [Hybrid Channel Open-source Frameworks](#hybrid-channel-open-source-frameworks)
+- [non-Open-source Tools For Building Bots](#non-open-source-tools-for-building-bots)
 - [Bots building consulting companies](#bots-building-consulting-companies)
 - [Tools For Bot Analytics](#tools-for-bot-analytics)
 - [Tools For Bot Conversation Mockups](#tools-for-bot-conversation-mockups)
@@ -38,13 +38,13 @@ Table of Contents
 * [WeChat](https://admin.wechat.com/)
 * [VKontakte](https://new.vk.com/dev/bizmessages)
 
-## Hybrid Channel Opensource Frameworks
+## Hybrid Channel Open-source Frameworks
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 
-## non-Opensource Tools For Building Bots
+## non-Open-source Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
