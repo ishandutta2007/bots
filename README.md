@@ -43,12 +43,16 @@ Table of Contents
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
+* [abot](https://github.com/itsabot/abot) - a digital assistant framework that enables anyone to easily build a digital assistant similar to Apple's Siri, Microsoft's Cortana, Google Now, or Amazon Alexa
+* [lita](https://github.com/litaio/lita) - Ruby starter bot
+* [https://github.com/gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. 
 
 ## non-Open-source Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
-* [https://www.luis.ai](https://www.luis.ai) - Microsot NPM service to pair with their botframework.
+* [luis.ai](https://www.luis.ai) - Microsot NPM service to pair with their botframework.
+* [lex](https://aws.amazon.com/lex) - AWS for Building Conversational Voice & Text Bots
 * [Text It](https://textit.in/) - Visually build SMS and voice apps to engage your customers.
 * [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation. No coding required.
 * [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) - Bring the power of cognitive computing to your apps.
@@ -74,14 +78,23 @@ Table of Contents
 * [motion.ai](https://www.motion.ai/) - Visually build multichannel bot for non programmers 
 * [init.ai](https://www.init.ai) -  End to end build train and deploy chatapps
 * [msg.ai](https://www.msg.ai) - Commerse focused bots
+* [reinfer.io](https://reinfer.io/) - Customer support focussed bot
+* [smooch.io](https://smooch.io/) - Customer support focussed bot
+* [pullstring](https://www.pullstring.com) - NLP engine
+* [www.mindmeld.com](www.mindmeld.com) - Deep-Domain Conversational AI to Power the Next Generation of Voice and Chat Assistants
+* [conversable](conversable.com) - An enterprise conversation platform for creating intelligent, on-demand, automated response flows through one-to-one conversations
 
 ## Bots building consulting companies
 * [jiffybots](https://jiffybots.com/)
+* [azumo](https://blog.azumo.co/we-are-chatbot-developers-8314caab2fc8)
 
 ## Tools For Bot Analytics
 * [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
 * [Dialog](https://dialoganalytics.com/) - Chatbot analytics platform for marketers to drive user engagement, retention, conversion and understand behavior.
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics: Increase user engagement, acquisition, and monetization.
+* [botan.io](http://botan.io/) - analytics for your Telegram bot
+* [Botanalytics](https://botanalytics.co)
+* [Bot-metrics](https://bot-metrics.com)
 
 ## Tools For Bot Conversation Mockups
 * [Bot Society](https://www.botsociety.io) - Bot conversation Mockups for presentation and demo.
@@ -113,6 +126,7 @@ Table of Contents
 * [Botlist](https://botlist.co/) - An App Store For Bots.
 * [Botpages](www.botpages.com) - All Channel bot directory
 * [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
+* [Slack Bots Directory](https://chatbotsgroup.slack.com/apps/category/At0MQP5BEF-bots)-
 * [Telegram Store](https://storebot.me/) - The official Telegram bot store.
 * [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
