@@ -46,7 +46,7 @@ Table of Contents
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [abot](https://github.com/itsabot/abot) - a digital assistant framework that enables anyone to easily build a digital assistant similar to Apple's Siri, Microsoft's Cortana, Google Now, or Amazon Alexa
 * [lita](https://github.com/litaio/lita) - Ruby starter bot
-* [https://github.com/gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. 
+* [ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. 
 
 ## non-Open-source Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
