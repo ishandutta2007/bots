@@ -110,7 +110,8 @@ Table of Contents
 
 ## Bot Stores
 * [ChatBottle](https://chatbottle.co/) - Chatbots search engine
-* [botlist](https://botlist.co/) - An App Store For Bots.
+* [Botlist](https://botlist.co/) - An App Store For Bots.
+* [Botpages](www.botpages.com) - All Channel bot directory
 * [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
 * [Telegram Store](https://storebot.me/) - The official Telegram bot store.
 * [Product Hunt](https://www.producthunt.com/topics/bots) - Product Hunt bot list.
@@ -141,8 +142,9 @@ Table of Contents
 
 ## Funding and News
 * [Botfunded](https://botfunded.com)
+* [botweekly](botweekly.com)
 * [Bots Timeline](https://www.cbinsights.com/blog/bot-startups-timeline/)
-* [chatbotsmagazine](https://chatbotsmagazine.com/chatbots-have-raised-over-170m-in-8-months-5df6aa6a0cf2#.ayt1xbg1a)
+* [chatbots Magazine](https://chatbotsmagazine.com/chatbots-have-raised-over-170m-in-8-months-5df6aa6a0cf2#.ayt1xbg1a)
 * [ventureradar-  25 chatbots](http://blog.ventureradar.com/2016/06/14/25-chatbot-startups-you-should-know)
 * [AI startups in India](https://www.quora.com/What-are-the-best-AI-startups-in-India)
 
