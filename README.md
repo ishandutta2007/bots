@@ -88,8 +88,8 @@ Table of Contents
 * [next it]www.nextit.com - An intelligent interface that is ready when you are. Our conversational A.I. is a layer of technology that sits between you, your team and your customers.
 
 ## Tools for sentiment analysis
-* IBM Bluemix(www.ibm.com/bluemix)
-* Monkeylearn(monkeylearn.com)
+* [IBM Bluemix](www.ibm.com/bluemix)
+* [Monkeylearn](www.monkeylearn.com)
 
 ## Bots building consulting companies
 * [jiffybots](https://jiffybots.com/)
