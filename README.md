@@ -53,9 +53,9 @@ Table of Contents
 * [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) - Bring the power of cognitive computing to your apps.
 * [Beep Boop](https://beepboophq.com/) - Beep Boop is a simple hosting platform for your Slack and Messenger bots.
 * [Dexter](https://rundexter.com/app/spreadsheet-bot) - Get a Slack bot that responds with answers from your own Google Sheet.
-* [Converse AI](http://www.converse.ai/) - Respond to customer questions instantly with intelligent chatbot technology.
+* [Converse.ai](http://www.converse.ai/) - Respond to customer questions instantly with intelligent chatbot technology.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
-* [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
+* [Recast.ai](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
 * [mypolly.ai](http://www.mypolly.ai) - Real human like conversation api
 * [meesho](http://www.meesho.com) - Whatsapp bot
 * [manychat](https://manychat.com/) - Quick way to create facebook bot for non-programmers
@@ -66,7 +66,7 @@ Table of Contents
 * [chatsuite](https://www.chatsuite.com) - AI focussed chat company
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
-* [flowxo]https://flowxo.com/)
+* [flowxo](https://flowxo.com/) - Readymade flows for multiple industried coupled with integration with a bot
 * [compose.ai](http://www.compose.ai/) -  Quick multichannel bot for non programmers
 * [meya.ai](https://meya.ai/) - Multichannel bot full framework
 * [onsequel](https://www.onsequel.com/) -  Quick multichannel bot for non programmers
