@@ -27,11 +27,16 @@ Table of Contents
 * [HipChat](https://developer.atlassian.com/hipchat/getting-started)
 * [Skype](https://developer.microsoft.com/en-us/skype/bots)
 * [Cisco Spark](https://developer.ciscospark.com/getting-started.html)
-* [Microsoft Bot Framework](https://dev.botframework.com/)
 * [WeChat](https://admin.wechat.com/)
 * [VKontakte](https://new.vk.com/dev/bizmessages)
 
-## Tools For Building Bots
+## Hybrid Channel Opensource Frameworks
+* [Microsoft Bot Framework](https://dev.botframework.com/)
+* [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
+* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
+* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
+
+## Tools For Building Bots(non Opensource)
 * [wit.ai ](https://wit.ai/) - Easily create text or voice based bots that humans can chat with.
 * [Botkit](https://howdy.ai/botkit/) - Botkit eases the process of designing and running bots that live inside Slack.
 * [api.ai](https://api.ai/) - Build brand-unique, natural language interactions for devices, applications and services.
@@ -41,9 +46,26 @@ Table of Contents
 * [Beep Boop](https://beepboophq.com/) - Beep Boop is a simple hosting platform for your Slack and Messenger bots.
 * [Dexter](https://rundexter.com/app/spreadsheet-bot) - Get a Slack bot that responds with answers from your own Google Sheet.
 * [Converse AI](http://www.converse.ai/) - Respond to customer questions instantly with intelligent chatbot technology.
-* [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
+* [mypolly.ai](http://www.mypolly.ai) - Real human like conversation api
+* [meesho](http://www.meesho.com) - Whatsapp bot
+* [manychat](https://manychat.com/) - Quick way to create facebook bot for non-programmers
+* [botsify](https://botsify.com/) - Quick way to create facebook bot for non-programmers
+* [chatbotkit](https://www.chatbotkit.com/) - chat bot for publishers and bloggers
+* [kore](https://kore.com/) - Custome bot for e-commerce
+* [automat.ai](http://www.automat.ai) - AI focuseed chatbot building
+* [chatsuite](https://www.chatsuite.com) - AI focussed chat company
+* [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
+* [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
+* [flowxo]https://flowxo.com/)
+* [compose.ai](http://www.compose.ai/) -  Quick multichannel bot for non programmers
+* [meya.ai](https://meya.ai/) - Multichannel bot full framework
+* [onsequel](https://www.onsequel.com/) -  Quick multichannel bot for non programmers
+* [motion.ai](https://www.motion.ai/) - Visually build multichannel bot for non programmers 
+
+## Bots building consulting companies
+* [jiffybots](https://jiffybots.com/)
 
 ## Tools For Bot Analytics
 * [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
@@ -54,26 +76,20 @@ Table of Contents
 * [Bot Society](https://www.botsociety.io) - Bot conversation Mockups for presentation and demo.
 * [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) - Sketch Chatbot UI (Mac Only)
 
-## Libraries
-
-### General
+## Nodejs Libraries
 * [Qtypes](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
-* [BotKit](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
-* [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
-* [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
-* [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 
-### Charting
+## Charting Libraries
 * [Image Charts](https://image-charts.com/)
 
-### Facebook Messenger
+## Facebook Messenger Libraries
 * [Go](https://github.com/paked/messenger)
 
-### Slack
+## Slack Libraries
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
 
-### Telegram
+## Telegram Libraries
 * [Node.js](https://github.com/yagop/node-telegram-bot-api)
 * [Node.js](https://github.com/telegraf/telegraf)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
