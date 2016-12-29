@@ -78,11 +78,13 @@ Table of Contents
 * [motion.ai](https://www.motion.ai/) - Visually build multichannel bot for non programmers 
 * [init.ai](https://www.init.ai) -  End to end build train and deploy chatapps
 * [msg.ai](https://www.msg.ai) - Commerse focused bots
+* [viv](viv.ai) - Viv is an artificial intelligence platform that enables developers to create an intelligent, conversational interface to anything
 * [reinfer.io](https://reinfer.io/) - Customer support focussed bot
 * [smooch.io](https://smooch.io/) - Customer support focussed bot
 * [pullstring](https://www.pullstring.com) - NLP engine
 * [www.mindmeld.com](www.mindmeld.com) - Deep-Domain Conversational AI to Power the Next Generation of Voice and Chat Assistants
 * [conversable](conversable.com) - An enterprise conversation platform for creating intelligent, on-demand, automated response flows through one-to-one conversations
+* [next it]www.nextit.com - An intelligent interface that is ready when you are. Our conversational A.I. is a layer of technology that sits between you, your team and your customers.
 
 ## Bots building consulting companies
 * [jiffybots](https://jiffybots.com/)
